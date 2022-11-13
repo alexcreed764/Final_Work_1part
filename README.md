@@ -22,10 +22,10 @@
 ***
 
 ## **Решение**
-1. Вы находитесь в созданном репозитории `--main`.
+1. Вы находитесь в созданном репозитории `Final_Work_1part`.
 2. Блок-схема алгоритма:
 
-> ![Block-diagram](Block-diagram.png)
+> ![Block-diagram](Block-giagram.png)
 
 3. Данный файла `README.md`
 4. Программа находится в ветке [`Zevs`](/Work_test/Program.cs "Открыть решение")
