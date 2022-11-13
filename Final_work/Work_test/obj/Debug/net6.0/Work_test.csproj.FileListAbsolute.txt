@@ -1,0 +1,15 @@
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/bin/Debug/net6.0/Work_test
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/bin/Debug/net6.0/Work_test.deps.json
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/bin/Debug/net6.0/Work_test.runtimeconfig.json
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/bin/Debug/net6.0/Work_test.dll
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/bin/Debug/net6.0/Work_test.pdb
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/Work_test.csproj.AssemblyReference.cache
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/Work_test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/Work_test.AssemblyInfoInputs.cache
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/Work_test.AssemblyInfo.cs
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/Work_test.csproj.CoreCompileInputs.cache
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/Work_test.dll
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/refint/Work_test.dll
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/Work_test.pdb
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/Work_test.genruntimeconfig.cache
+/Users/gancenkoaleksandr/Downloads/--main/Final_work/Work_test/obj/Debug/net6.0/ref/Work_test.dll
